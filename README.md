@@ -1,11 +1,8 @@
 # Dorylus: Affordable, Scalable, and Accurate GNN Training with Distributed CPU Servers and Serverless Threads
 
 This is Dorylus, a *Scalable*, *Resource-efficient* & *Affordable*
-computation system for
-[Graph Neural Networks](https://tkipf.github.io/graph-convolutional-networks/),
-built upon an architecture combining cheap data servers on
-[AWS EC2](https://aws.amazon.com/ec2/) with serverless computing on
-[AWS Lambda Threads](https://aws.amazon.com/lambda/).
+computation system for Machine Learning,
+built upon an architecture combining cheap data servers on.
 
 > Dataserver originally is a push-based ASPIRE implementation, a cleaned up version of gift (forked on July 06, 2016). Implemented streaming-like processing as in Tornado (SIGMOD'16) paper.
 
